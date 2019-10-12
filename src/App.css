@@ -1,22 +1,5 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
+body{
+  background: url("https://images.wallpaperscraft.com/image/light_faded_background_85547_300x168.jpg") no-repeat center center fixed ;
+  background-size: cover; 
+  
 }
